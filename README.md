@@ -126,7 +126,7 @@ Nu ska du vidareutveckla din chatbot så att den kan hämta aktuell information 
 
 Använd API:et nedan:
 
-https://airbean-9pcyw.ondigitalocean.app/api/docs/
+```https://santosnr6.github.io/Data/airbean.json```
 
 Skapa en LangChain-tool som hämtar menyn från API:et.
 
